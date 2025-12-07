@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Sanjay Jat
-- 👀 I’m interested in Learning Programming Language.
-- 🌱 I’m currently learning Python Programming Language.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Sanjay Lunayach
+- 👀 I’m interested in doing Algorithmic Trading.
+- 🌱 I’m currently learning Python Programming Language && Rust programming language.
+- 💞️ I’m looking to collaborate on fully fledged Backtesting website.
+- 📫 You can reach me on [Twitter](https://x.com/snjy_harmonic)
 
 
 [roadmap.sh progress](https://roadmap.sh/card/tall/64dd86ae095da82caf9e9382?variant=dark&roadmaps=rust%2Cpython%2Csql%2Clinux)
