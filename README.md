@@ -1,11 +1,11 @@
-# Introduction
+### Introduction
     👋 Hi, I’m **Sanjay Lunayach**.
     I am currently engaged in learning both Python and Rust programming languages. I have acquired knowledge in these languages through self-study, rather than attending a university or an institute. My fondness for reading may have contributed to my habit of extensively reviewing programming documentation.
 
-# Vision
+### Vision
     I am interested in collaborating on a comprehensive logistics ecosystem where all stakeholders, including brokers, transporters, booking authorities, and manufacturing industries, can operate under a unified platform.
 
-## Contact
+### Contact
 - [Linkedin](https://www.linkedin.com/in/optionsnjy/)
 - [Email](contact@snjy.me)
 
