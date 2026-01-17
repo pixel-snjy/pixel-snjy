@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Sanjay Lunayach
-- 👀 I’m interested in doing Algorithmic Trading.
 - 🌱 I’m currently learning Python Programming Language && Rust programming language.
-- 💞️ I’m looking to collaborate on fully fledged Options Trading website.
+- 💞️ I’m looking to collaborate on fully fledged ecosystem building on Indian Logistics.
 - 📫 You can reach me on [Linkedin](https://www.linkedin.com/in/optionsnjy/)
 
 
