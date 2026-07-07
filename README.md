@@ -25,7 +25,7 @@ philosophy: Self-taught through documentation & curiosity
 <a href="mailto:contact@snjy.me">
   <img height="32" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://bsky.app/profile/pixel-snjy.bsky.social">
+<a href="https://bsky.app/profile/qbexra.com">
   <img height="32" src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" />
 </a>
 
